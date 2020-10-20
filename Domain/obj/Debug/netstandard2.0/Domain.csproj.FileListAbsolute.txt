@@ -1,0 +1,9 @@
+C:\code\matc\itdev162\rodolfo-poserio\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\code\matc\itdev162\rodolfo-poserio\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\code\matc\itdev162\rodolfo-poserio\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\code\matc\itdev162\rodolfo-poserio\Domain\obj\Debug\netstandard2.0\Domain.pdb
